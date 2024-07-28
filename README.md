@@ -14,6 +14,8 @@ Paper List of Physics-Informed Neural Network (PINN)
   - [Papers on Applications](#papers-on-applications)
   - [Papers on PINN Analysis](#papers-on-pinn-analysis)
 
+
+
 ## Introduction
 
 Physics-Informed Neural Network (PINN) has achieved great success in scientific computing since 2017. In this repo, we list some representative work on PINNs. Feel free to distribute or use it!
@@ -26,6 +28,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 ## Newly Updated Papers & Toolkit 
 
+
+* [[https://github.com/nanditadoloi/PINN](https://github.com/nanditadoloi/PINN)] 
 
 * [[https://github.com/maziarraissi/PINNs](https://github.com/maziarraissi/PINNs)]
 
