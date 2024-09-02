@@ -31,8 +31,16 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
   [[Paper](https://arxiv.org/abs/2408.01026)] 
 
 
-## Newly Updated Papers & Toolkit 
+## Video Tutorials 
+* **Introduction to Physics Informed Neural Networks | A hands on, project based course**, [[Youtube](https://www.youtube.com/watch?v=zjH8imO-UWo)]
+* **Physics Informed Neural Networks (PINNs) || Ordinary Differential Equations || Step-by-Step Tutorial**, [[Youtube](https://www.youtube.com/watch?v=pq3aAWU6kBQ)]
+* **Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering**, [[Youtube](https://www.youtube.com/watch?v=JoFW2uSd3Uo)]
+* **Physics Informed Neural Networks**, [[Youtube](https://www.youtube.com/watch?v=kDlrOanVtf8)]
 
+
+
+
+## Newly Updated Papers & Toolkit 
 
 * [[https://github.com/nanditadoloi/PINN](https://github.com/nanditadoloi/PINN)] 
 
