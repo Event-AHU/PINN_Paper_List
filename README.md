@@ -70,6 +70,17 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 10. **IDRLnet: A Physics-Informed Neural Network Library**, *Wei Peng, Jun Zhang, Weien Zhou, Xiaoyu Zhao, Wen Yao, Xiaoqian Chen*, arXiv:2107.04320 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2107.04320.pdf)][[code](https://github.com/idrl-lab/idrlnet)]
 11. **NeuralUQ: A comprehensive library for uncertainty quantification in neural differential equations and operators**, *Zongren Zou, Xuhui Meng, Apostolos F. Psaros, George Em Karniadakis*, **UNKNOWN_JOURNAL**, 2022. [[paper](http://arxiv.org/pdf/2208.11866.pdf)][[code](https://github.com/Crunch-UQ4MI/neuraluq)]
 
+
+
+
+
+
+## Year 2020 
+* **Physics-informed deep learning for incompressible laminar flows**, Chengping Rao, Hao Sun, Yang Liu, Theoretical and Applied Mechanics Letters, 2020 
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2095034920300350)] 
+
+
+
 ## Papers on PINN Models
 1. **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations**, *M. Raissi, P. Perdikaris, G. E. Karniadakis*, Journal of Computational Physics, 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)]
 2. **The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems**, *E Weinan, Bing Yu*, Communications in Mathematics and Statistics, 2018. [[paper](https://link.springer.com/article/10.1007/s40304-018-0127-z)]
