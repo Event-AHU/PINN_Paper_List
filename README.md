@@ -73,6 +73,24 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 
+## Year 2024 
+
+* **Robust Variational Physics-Informed Neural Networks**,
+  [[Paper](https://arxiv.org/pdf/2308.16910)]
+
+* [NeurIPS 2023] **Separable Physics-Informed Neural Networks**,
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4af827e7d0b7bdae6097d44977e87534-Paper-Conference.pdf)]
+  [[Code](https://jwcho5576.github.io/spinn.github.io/)]
+
+
+
+
+
+## Year 2022 
+
+* -**PINNs: physics-informed neural networks on complex geometries**,
+  [[Paper](https://arxiv.org/pdf/2209.03984)] 
+
 
 
 ## Year 2020 
