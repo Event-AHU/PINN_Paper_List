@@ -82,7 +82,13 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4af827e7d0b7bdae6097d44977e87534-Paper-Conference.pdf)]
   [[Code](https://jwcho5576.github.io/spinn.github.io/)]
 
+* Kamtue, Kawisorn, et al. "**PhyOT: Physics-informed object tracking in surveillance cameras.**"
+  ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024.
+  [[Paper](https://arxiv.org/pdf/2312.08650)]
 
+
+
+## Year 2023 
 
 
 
