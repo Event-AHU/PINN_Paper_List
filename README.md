@@ -28,7 +28,12 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 ## Survey and Review 
 * **PINNs for Medical Image Analysis: A Survey**, Chayan Banerjee, Kien Nguyen, Olivier Salvado, Truyen Tran, Clinton Fookes
-  [[Paper](https://arxiv.org/abs/2408.01026)] 
+  [[Paper](https://arxiv.org/abs/2408.01026)]
+
+* [arXiv:2410.13228] **From PINNs to PIKANs: Recent Advances in Physics-Informed Machine Learning**,
+  Juan Diego Toscano, Vivek Oommen, Alan John Varghese, Zongren Zou, Nazanin Ahmadi Daryakenari, Chenxi Wu, George Em Karniadakis
+  [[Paper](https://arxiv.org/abs/2410.13228)] 
+
 
 
 ## Video Tutorials 
