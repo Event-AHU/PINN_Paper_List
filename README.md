@@ -80,6 +80,16 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 ## Year 2024 
 
+
+* Musgrave, Jonathan, and Shu-Wei Huang. "**Fourier Domain Physics Informed Neural Network.**" arXiv preprint arXiv:2409.19895 (2024).
+  [[Paper](https://arxiv.org/pdf/2409.19895)] 
+
+* Cooley, Madison, et al. "**Fourier PINNs: From Strong Boundary Conditions to Adaptive Fourier Bases.**" arXiv preprint arXiv:2410.03496 (2024).
+  [[Paper](https://arxiv.org/pdf/2410.03496)] 
+
+* Song, Yuchen, et al. "**SRS-Net: a universal framework for solving stimulated Raman scattering in nonlinear fiber-optic systems by physics-informed deep learning.**" Communications Engineering 3.1 (2024): 109.
+  [[Paper](https://www.nature.com/articles/s44172-024-00253-w.pdf)]
+
 * **Robust Variational Physics-Informed Neural Networks**,
   [[Paper](https://arxiv.org/pdf/2308.16910)]
 
@@ -94,6 +104,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 ## Year 2023 
+* Borate, Prabhav, et al. "**Using a physics-informed neural network and fault zone acoustic monitoring to predict lab earthquakes.**" Nature communications 14.1 (2023): 3693.
+  [[Paper](https://www.nature.com/articles/s41467-023-39377-6.pdf)]
+
 
 
 
