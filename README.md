@@ -80,6 +80,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 ## Year 2024 
 
+* **Dual Cone Gradient Descent for Training Physics-Informed Neural Networks**, Youngsik Hwang, Dong-Young Lim
+  [[Paper](https://arxiv.org/abs/2409.18426)] 
 
 * Musgrave, Jonathan, and Shu-Wei Huang. "**Fourier Domain Physics Informed Neural Network.**" arXiv preprint arXiv:2409.19895 (2024).
   [[Paper](https://arxiv.org/pdf/2409.19895)] 
