@@ -81,6 +81,10 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 ## Year 2024 
 
 
+* **CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy** [[Paper](https://arxiv.org/pdf/2312.02235)] 
+
+* **Physics-Informed Variational State-Space Gaussian Processes** [[Paper](https://arxiv.org/pdf/2409.13876)] 
+
 * **Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators**, 
   [[Paper](https://arxiv.org/pdf/2402.12365)]
 
