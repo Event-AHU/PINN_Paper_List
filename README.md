@@ -81,6 +81,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 ## Year 2024 
 
 
+* **Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators**, 
+  [[Paper](https://arxiv.org/pdf/2402.12365)]
+
 * **Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**, [[Paper](https://arxiv.org/pdf/2409.20409)] 
 
 * **Dual Cone Gradient Descent for Training Physics-Informed Neural Networks**, Youngsik Hwang, Dong-Young Lim
