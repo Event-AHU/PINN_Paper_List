@@ -32,7 +32,9 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 * [arXiv:2410.13228] **From PINNs to PIKANs: Recent Advances in Physics-Informed Machine Learning**,
   Juan Diego Toscano, Vivek Oommen, Alan John Varghese, Zongren Zou, Nazanin Ahmadi Daryakenari, Chenxi Wu, George Em Karniadakis
-  [[Paper](https://arxiv.org/abs/2410.13228)] 
+  [[Paper](https://arxiv.org/abs/2410.13228)]
+
+* **Physics-Informed Computer Vision: A Review and Perspectives**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3689037)] 
 
 
 
