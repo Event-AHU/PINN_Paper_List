@@ -82,8 +82,15 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 
-## Year 2024 
+## Year 2025 
 
+* **Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects**,
+  Jian Cheng Wong, Abhishek Gupta, Chin Chun Ooi, Pao-Hsiung Chiu, Jiao Liu, Yew-Soon Ong
+  [[Paper](https://arxiv.org/abs/2501.06572)]
+
+
+
+## Year 2024 
 
 * **CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy** [[Paper](https://arxiv.org/pdf/2312.02235)] 
 
