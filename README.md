@@ -3,8 +3,10 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 
-<img src="https://github.com/Event-AHU/PINN_Paper_List/blob/main/pinn_logo.png" width="400">
 
+<p align="center">
+  <img src="https://github.com/Event-AHU/PINN_Paper_List/blob/main/pinn_logo.png" width="600">
+</p>
 
 
 * Continues to update based on [[PINNpapers](https://github.com/idrl-lab/PINNpapers)] contributed by [IDRL lab](https://github.com/idrl-lab).
