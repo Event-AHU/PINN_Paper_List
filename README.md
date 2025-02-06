@@ -35,6 +35,11 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 ## Survey and Review 
+
+* Torres, Edgar, and Mathias Niepert. "**Survey: Adaptive Physics-informed Neural Networks.**"
+  Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges.
+  [[Paper](https://openreview.net/forum?id=bYP6YB84Pq)]
+  
 * **PINNs for Medical Image Analysis: A Survey**, Chayan Banerjee, Kien Nguyen, Olivier Salvado, Truyen Tran, Clinton Fookes
   [[Paper](https://arxiv.org/abs/2408.01026)]
 
