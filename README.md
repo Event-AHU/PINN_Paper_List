@@ -97,6 +97,11 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 ## Year 2025 
 
+
+* **PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems**,
+  Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, Hao Sun
+  [[Paper](https://arxiv.org/abs/2410.01337)] 
+
 * **Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects**,
   Jian Cheng Wong, Abhishek Gupta, Chin Chun Ooi, Pao-Hsiung Chiu, Jiao Liu, Yew-Soon Ong
   [[Paper](https://arxiv.org/abs/2501.06572)]
