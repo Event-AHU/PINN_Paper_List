@@ -61,6 +61,20 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 
+* **Learning Physics Informed Machine Learning Part 1- Physics Informed Neural Networks (PINNs)**
+  [[Youtube](https://youtu.be/AXXnSzmpyoI?si=yPXABFvQoX_J7baq)]
+* **Learning Physics Informed Machine Learning Part 2- Inverse Physics Informed Neural Networks (PINNs)**
+  [[Youtube](https://youtu.be/77jChHTcbv0?si=2_Y6SjG9mDopPRUh)]
+* **Learning Physics Informed Machine Learning Part 3- Physics Informed DeepONets**
+  [[Youtube](https://youtu.be/YpNYVD9B_Js?si=M56B0pIiNiZzDJn-)]
+* **Physics Informed Neural Networks for Soft Matter Problems (Paper Review)**
+  [[Youtube](https://youtu.be/up6cJgliUek?si=0PFO58Nq3cjFaP5e)]
+* **Physics-Informed Machine Learning (PIML) and Kolmogorov-Arnold Networks (KANs)- Caltech's CMX 2025**
+  [[Youtube](https://youtu.be/MQqKEmlUlSk?si=8hpe-C0JQAOgeo_J)] 
+
+
+
+
 
 ## Newly Updated Papers & Toolkit 
 
