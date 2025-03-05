@@ -11,28 +11,6 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 * Continues to update based on [[PINNpapers](https://github.com/idrl-lab/PINNpapers)] contributed by [IDRL lab](https://github.com/idrl-lab).
 
-- [PINNpapers](#pinnpapers)
-  - [Introduction](#introduction)
-  - [Software](#software)
-  - [Papers on PINN Models](#papers-on-pinn-models)
-  - [Papers on Parallel PINN](#papers-on-parallel-pinn)
-  - [Papers on PINN Accerleration](#papers-on-pinn-accerleration)
-  - [Papers on Model Transfer & Meta-Learning](#papers-on-model-transfer--meta-learning)
-  - [Papers on Probabilistic PINNs and Uncertainty Quantification](#papers-on-probabilistic-pinns-and-uncertainty-quantification)
-  - [Papers on Applications](#papers-on-applications)
-  - [Papers on PINN Analysis](#papers-on-pinn-analysis)
-
-
-
-## Introduction
-
-Physics-Informed Neural Network (PINN) has achieved great success in scientific computing since 2017. In this repo, we list some representative work on PINNs. Feel free to distribute or use it!
-
-Corrections and suggestions are welcomed.
-
-A [script](./ref_convert.py) for converting bibtex to the markdown used in this repo is also provided for your convenience.
-
-
 
 ## Survey and Review 
 
@@ -51,6 +29,13 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 * **Scientific Machine Learning Through Physics–Informed Neural Networks: Where We Are and What’s Next?** Journal of Scientific Computing (2022) 92:88,
   [[Paper](https://link.springer.com/content/pdf/10.1007/s10915-022-01939-z.pdf)] 
+
+
+
+## Nature and Science 
+* Raissi, Maziar, Alireza Yazdani, and George Em Karniadakis. "**Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations.**" Science 367.6481 (2020): 1026-1030. [[Paper](https://www.science.org/doi/10.1126/science.aaw4741)]
+
+
 
 
 ## Video Tutorials 
