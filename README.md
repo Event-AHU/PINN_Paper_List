@@ -59,6 +59,16 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 
+---------------------- **ETH Zürich AI in the Sciences and Engineering 2024** ----------------------
+* **ETH Zürich AISE: Physics-Informed Neural Networks – Introduction** [[Youtube](https://youtu.be/D-F7BYRhAkQ?si=2zPXNatR68SuQOvn)]
+* **ETH Zürich AISE: Physics-Informed Neural Networks – Limitations and Extensions Part 1** [[Youtube](https://youtu.be/S11QK8baGVI?si=XO46SAetgpfRku5h)]
+* **ETH Zürich AISE: Physics-Informed Neural Networks – Limitations and Extensions Part 2** [[Youtube](https://youtu.be/NFtE1pyD5LA?si=HLPeBWNksTnQz0gb)]
+* **ETH Zürich AISE: Physics-Informed Neural Networks – Theory Part 1** [[Youtube](https://youtu.be/AaChPylEH6U?si=lwn5uo9FxKwdG6fX)]
+* **ETH Zürich AISE: Physics-Informed Neural Networks – Theory Part 2** [[Youtube](https://youtu.be/FqdJ2Jx9MVc?si=OmSaJlVu8bSW4zzF)]
+* **ETH Zürich AISE: Importance of PDEs in Science** [[Youtube](https://youtu.be/UiZxDRBd0Q8?si=IxIM-UEYAAAvN8tm)]
+
+
+
 
 
 ## Newly Updated Papers & Toolkit 
