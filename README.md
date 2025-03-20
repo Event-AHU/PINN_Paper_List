@@ -68,7 +68,8 @@ Paper List of Physics-Informed Neural Network (PINN)
 * **ETH Zürich AISE: Importance of PDEs in Science** [[Youtube](https://youtu.be/UiZxDRBd0Q8?si=IxIM-UEYAAAvN8tm)]
 
 
-
+## Simple Tutorial 
+* [https://github.com/zhaoxiaoyu1995/PINN-Task](https://github.com/zhaoxiaoyu1995/PINN-Task)
 
 
 ## Newly Updated Papers & Toolkit 
