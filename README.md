@@ -43,6 +43,11 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 ## Video Tutorials 
+
+
+* [[**Jonas Buchli & Federico Felici: Magnetic control of tokamak plasmas with deep reinforcement learning (Youtube)**](https://youtu.be/Oesjkp5tSkA?si=Imx84qevVkQSEQMS)]
+
+
 * **Introduction to Physics Informed Neural Networks | A hands on, project based course**, [[Youtube](https://www.youtube.com/watch?v=zjH8imO-UWo)]
 * **Physics Informed Neural Networks (PINNs) || Ordinary Differential Equations || Step-by-Step Tutorial**, [[Youtube](https://www.youtube.com/watch?v=pq3aAWU6kBQ)]
 * **Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering**, [[Youtube](https://www.youtube.com/watch?v=JoFW2uSd3Uo)]
