@@ -92,7 +92,10 @@ Paper List of Physics-Informed Neural Network (PINN)
     Maziar Raissi, Paris Perdikaris, George Em Karniadakis
   [[Paper](https://arxiv.org/abs/1711.10566)]
 
-* [[**SC21 Tutorial on Scientific Machine Learning**](https://github.com/prehensilecode/sciml)]
+* [**SC21 Tutorial on Scientific Machine Learning (GitHub)**](https://github.com/prehensilecode/sciml)
+  
+* [**Scientific Machine Learning Tutorial at SuperComputing Conference 2021 (Youtube Video List)**](https://youtu.be/ssZO8Y_TqxI?si=KDL-_PW4nNyNqQsQ)
+
 
 
 ## Software
