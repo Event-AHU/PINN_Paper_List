@@ -12,6 +12,9 @@ Paper List of Physics-Informed Neural Network (PINN)
 * Continues to update based on [[PINNpapers](https://github.com/idrl-lab/PINNpapers)] contributed by [IDRL lab](https://github.com/idrl-lab).
 
 
+
+
+
 ## Survey and Review 
 
 * Torres, Edgar, and Mathias Niepert. "**Survey: Adaptive Physics-informed Neural Networks.**"
@@ -29,6 +32,7 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 * **Scientific Machine Learning Through Physics–Informed Neural Networks: Where We Are and What’s Next?** Journal of Scientific Computing (2022) 92:88,
   [[Paper](https://link.springer.com/content/pdf/10.1007/s10915-022-01939-z.pdf)] 
+
 
 
 
@@ -86,7 +90,9 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 * [arXiv:1711.10566] **Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations**,
     Maziar Raissi, Paris Perdikaris, George Em Karniadakis
-  [[Paper](https://arxiv.org/abs/1711.10566)] 
+  [[Paper](https://arxiv.org/abs/1711.10566)]
+
+* [[**SC21 Tutorial on Scientific Machine Learning**](https://github.com/prehensilecode/sciml)]
 
 
 ## Software
