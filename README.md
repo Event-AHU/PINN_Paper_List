@@ -31,7 +31,9 @@ Paper List of Physics-Informed Neural Network (PINN)
 * **Physics-Informed Computer Vision: A Review and Perspectives**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3689037)]
 
 * **Scientific Machine Learning Through Physics–Informed Neural Networks: Where We Are and What’s Next?** Journal of Scientific Computing (2022) 92:88,
-  [[Paper](https://link.springer.com/content/pdf/10.1007/s10915-022-01939-z.pdf)] 
+  [[Paper](https://link.springer.com/content/pdf/10.1007/s10915-022-01939-z.pdf)]
+
+* **Deep Learning and Computational Physics** (Lecture Notes) Deep Ray, Orazio Pinti, Assad A. Oberai [[https://arxiv.org/abs/2301.00942](https://arxiv.org/abs/2301.00942)]
 
 
 
