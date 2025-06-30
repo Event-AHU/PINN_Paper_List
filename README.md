@@ -17,6 +17,8 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Survey and Review 
 
+* [e-book]**《基于物理的深度学习书籍》** [[Paper](https://drive.google.com/file/d/1qYXHSW_vxiqpUXXpBGmtDa_O9tjW6obh/view?usp=sharing)] 
+  
 * **"Neural Networks Meet Physics: A Survey of Physics-Informed Approaches to Modeling and Simulation."** Nasir, Karthika, Rahul Menon, and Sneha Iyer. (2025).
   [[Paper](https://www.techrxiv.org/users/911826/articles/1290173-neural-networks-meet-physics-a-survey-of-physics-informed-approaches-to-modeling-and-simulation)]
   
