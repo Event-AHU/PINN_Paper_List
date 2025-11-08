@@ -17,12 +17,15 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Survey and Review 
 
+
+* Yu, Xianglong, et al. "**Review of physics-informed neural networks in hemodynamics.**" Engineering Applications of Artificial Intelligence 163 (2026): 112834.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625028659)]
+  
 * [e-book]**《基于物理的深度学习书籍》** [[Paper](https://drive.google.com/file/d/1qYXHSW_vxiqpUXXpBGmtDa_O9tjW6obh/view?usp=sharing)] 
   
 * **"Neural Networks Meet Physics: A Survey of Physics-Informed Approaches to Modeling and Simulation."** Nasir, Karthika, Rahul Menon, and Sneha Iyer. (2025).
   [[Paper](https://www.techrxiv.org/users/911826/articles/1290173-neural-networks-meet-physics-a-survey-of-physics-informed-approaches-to-modeling-and-simulation)]
   
-
 * Torres, Edgar, and Mathias Niepert. "**Survey: Adaptive Physics-informed Neural Networks.**"
   Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges.
   [[Paper](https://openreview.net/forum?id=bYP6YB84Pq)]
