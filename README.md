@@ -18,6 +18,8 @@ Paper List of Physics-Informed Neural Network (PINN)
 ## Survey and Review 
 
 
+* [e-book] **【入门必备】物理信息神经网络入门-简明教程(1).pdf** [[PDF](https://github.com/Event-AHU/PINN_Paper_List/blob/main/%E3%80%90%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87%E3%80%91%E7%89%A9%E7%90%86%E4%BF%A1%E6%81%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%A5%E9%97%A8-%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B(1).pdf)]
+
 * Yu, Xianglong, et al. "**Review of physics-informed neural networks in hemodynamics.**" Engineering Applications of Artificial Intelligence 163 (2026): 112834.
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625028659)]
   
