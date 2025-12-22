@@ -138,7 +138,22 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Year 2025 
 
+* **The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning**,
+  Ruben Ohana, Michael McCabe, Lucas Meyer, Rudy Morel, Fruzsina J. Agocs, Miguel Beneitez, Marsha Berger, Blakesley Burkhart, Keaton Burns, Stuart B. Dalziel, Drummond B. Fielding, Daniel Fortunato, Jared A. Goldberg, Keiya Hirashima, Yan-Fei Jiang, Rich R. Kerswell, Suryanarayana Maddu, Jonah Miller, Payel Mukhopadhyay, Stefan S. Nixon, Jeff Shen, Romain Watteaux, Bruno Régaldo-Saint Blancard, François Rozet, Liam H. Parker, Miles Cranmer, Shirley Ho
+  [[Paper](https://arxiv.org/abs/2412.00568)] 
 
+* **AION-1: Omnimodal Foundation Model for Astronomical Sciences**,
+  Liam Parker, Francois Lanusse, Jeff Shen, Ollie Liu, Tom Hehir, Leopoldo Sarra, Lucas Meyer, Micah Bowles, Sebastian Wagner-Carena, Helen Qu, Siavash Golkar, Alberto Bietti, Hatim Bourfoune, Nathan Casserau, Pierre Cornette, Keiya Hirashima, Geraud Krawezik, Ruben Ohana, Nicholas Lourie, Michael McCabe, Rudy Morel, Payel Mukhopadhyay, Mariel Pettee, Bruno Regaldo-Saint Blancard, Kyunghyun Cho, Miles Cranmer, Shirley Ho
+  [[Paper](https://arxiv.org/abs/2510.17960)] 
+
+* **Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model**,
+  Rio Alexa Fear, Payel Mukhopadhyay, Michael McCabe, Alberto Bietti, Miles Cranmer
+  [[Paper](https://arxiv.org/abs/2511.20798)] 
+
+* **PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving**,
+  Jianming Liu, Ren Zhu, Jian Xu, Kun Ding, Xu-Yao Zhang, Gaofeng Meng, Cheng-Lin Liu
+  [[Paper](https://arxiv.org/abs/2512.16214)] 
+ 
 * **PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems**,
   Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, Hao Sun
   [[Paper](https://arxiv.org/abs/2410.01337)] 
