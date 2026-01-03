@@ -18,6 +18,9 @@ Paper List of Physics-Informed Neural Network (PINN)
 ## Survey and Review 
 
 
+* [Survey] **A Mathematical Guide to Operator Learning**, Nicolas Boullé, Alex Townsend
+  [[Paper](https://arxiv.org/abs/2312.14688)] 
+  
 * Guo, Jiangtao, et al. "**Advances in physics-informed neural networks for solving complex partial differential equations and their engineering applications: A systematic review.**"
   Engineering Applications of Artificial Intelligence 161 (2025): 112044.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197625020524?via%3Dihub)] 
