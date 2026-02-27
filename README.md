@@ -138,6 +138,13 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 
+## Year 2026 
+
+* **Pixel2Phys: Distilling Governing Laws from Visual Dynamics**,
+  Ruikun Li, Jun Yao, Yingfan Hua, Shixiang Tang, Biqing Qi, Bin Liu, Wanli Ouyang, Yan Lu
+  [[Paper](https://arxiv.org/abs/2602.19516)]
+
+
 
 ## Year 2025 
 
