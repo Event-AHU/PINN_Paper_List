@@ -140,7 +140,10 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Year 2026 
 
-* **Pixel2Phys: Distilling Governing Laws from Visual Dynamics**,
+* **Physical Regularization Loss: Integrating Physical Knowledge to Image Segmentation**, International Journal of Computer Vision 2026 
+  [[Paper](https://link.springer.com/article/10.1007/s11263-026-02776-5)] 
+
+* **Pixel2Phys: Distilling Governing Laws from Visual Dynamics**, 
   Ruikun Li, Jun Yao, Yingfan Hua, Shixiang Tang, Biqing Qi, Bin Liu, Wanli Ouyang, Yan Lu
   [[Paper](https://arxiv.org/abs/2602.19516)]
 
