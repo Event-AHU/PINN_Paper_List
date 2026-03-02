@@ -147,6 +147,9 @@ Paper List of Physics-Informed Neural Network (PINN)
   Ruikun Li, Jun Yao, Yingfan Hua, Shixiang Tang, Biqing Qi, Bin Liu, Wanli Ouyang, Yan Lu
   [[Paper](https://arxiv.org/abs/2602.19516)]
 
+* **FovEx: Human-Inspired Explanations for Vision Transformers and Convolutional Neural Networks**, Mahadev Prasad Panda, Matteo Tiezzi, Martina Vilas, Gemma Roig, Bjoern M. Eskofier & Dario Zanca,
+  [[Paper](https://link.springer.com/article/10.1007/s11263-025-02543-y)] 
+
 
 
 ## Year 2025 
