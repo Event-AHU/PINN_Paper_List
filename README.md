@@ -140,6 +140,11 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Year 2026 
 
+* Li, Wei; Zhang, Wei; Xie, Yi; Wen, Yonggang; Yan, Qingyu (2026).
+  **Operando Thermal Reconstruction for Lithium-Ion Batteries via Physics-Informed Generative Diffusion Models.**
+  Singapore Institute of Technology. Journal contribution. https://doi.org/10.25447/sit.31986780.v1
+  [[Paper](https://irr.singaporetech.edu.sg/articles/journal_contribution/Operando_Thermal_Reconstruction_for_Lithium-Ion_Batteries_via_Physics-Informed_Generative_Diffusion_Models/31986780?file=63634500)]
+  
 * **Physical Regularization Loss: Integrating Physical Knowledge to Image Segmentation**, International Journal of Computer Vision 2026 
   [[Paper](https://link.springer.com/article/10.1007/s11263-026-02776-5)] 
 
