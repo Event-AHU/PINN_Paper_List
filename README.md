@@ -144,6 +144,10 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Year 2026 
 
+
+* [arXiv:1710.00211] Yu, Bing. "**The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems.**"
+  Communications in Mathematics and Statistics 6.1 (2018): 1-12. [[arXiv](https://arxiv.org/pdf/1710.00211)] 
+
 * Li, Wei; Zhang, Wei; Xie, Yi; Wen, Yonggang; Yan, Qingyu (2026).
   **Operando Thermal Reconstruction for Lithium-Ion Batteries via Physics-Informed Generative Diffusion Models.**
   Singapore Institute of Technology. Journal contribution. https://doi.org/10.25447/sit.31986780.v1
