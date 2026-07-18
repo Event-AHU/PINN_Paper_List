@@ -17,10 +17,6 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Survey and Review 
 
-
-* [IEEE TPAMI 2026] H. Viswanath et al., "**Neural Operator: Is Data All You Need to Model the World? An Insight Into the Paradigm of Data-Driven Scientific ML,**" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 8, pp. 10097-10111, Aug. 2026, doi: 10.1109/TPAMI.2026.3682604.
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/11478340)] 
-  
 * [Survey] Wang, Yizheng, et al. "**Artificial intelligence for partial differential equations in computational mechanics: A review.**" 
   Applied Mechanics Reviews (2024): 1-81. 
   [[Paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570)]
@@ -146,8 +142,12 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 ## Year 2026 
+* [IEEE TPAMI 2026] H. Viswanath et al., "**Neural Operator: Is Data All You Need to Model the World? An Insight Into the Paradigm of Data-Driven Scientific ML,**" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 8, pp. 10097-10111, Aug. 2026, doi: 10.1109/TPAMI.2026.3682604.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11478340)] 
 
-
+* **G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems**, Weixin Liao * 1 2 Mingquan Feng * 1 2 Zhizhou Zhang 2 Youjia Wu 2 Yifan Fu 1 Junchi Yan 1 
+  [[Paper](https://openreview.net/pdf?id=uizi6lvkSW)] 
+  
 * [arXiv:1710.00211] Yu, Bing. "**The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems.**"
   Communications in Mathematics and Statistics 6.1 (2018): 1-12. [[arXiv](https://arxiv.org/pdf/1710.00211)] 
 
