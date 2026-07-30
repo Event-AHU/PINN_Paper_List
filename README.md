@@ -17,6 +17,10 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Survey and Review 
 
+* **Physics-Informed Neural Networks and Extensions**, 
+  Maziar Raissi, Paris Perdikaris, Nazanin Ahmadi, George Em Karniadakis, Frontiers of Science Awards 2024, 
+  [[Paper](https://arxiv.org/abs/2408.16806)]
+
 * [Survey] Wang, Yizheng, et al. "**Artificial intelligence for partial differential equations in computational mechanics: A review.**" 
   Applied Mechanics Reviews (2024): 1-81. 
   [[Paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570)]
