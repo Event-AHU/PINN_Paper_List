@@ -77,14 +77,13 @@ Paper List of Physics-Informed Neural Network (PINN)
 * **Physics Informed Neural Networks**, [[Youtube](https://www.youtube.com/watch?v=kDlrOanVtf8)]
 
 
-
-* **Learning Physics Informed Machine Learning Part 1- Physics Informed Neural Networks (PINNs)**
+* **Learning Physics Informed Machine Learning Part 1 - Physics Informed Neural Networks (PINNs)**
   [[Youtube](https://youtu.be/AXXnSzmpyoI?si=yPXABFvQoX_J7baq)]
-* **Learning Physics Informed Machine Learning Part 2- Inverse Physics Informed Neural Networks (PINNs)**
+* **Learning Physics Informed Machine Learning Part 2 - Inverse Physics Informed Neural Networks (PINNs)**
   [[Youtube](https://youtu.be/77jChHTcbv0?si=2_Y6SjG9mDopPRUh)]
-* **Learning Physics Informed Machine Learning Part 3- Physics Informed DeepONets**
+* **Learning Physics Informed Machine Learning Part 3 - Physics Informed DeepONets**
   [[Youtube](https://youtu.be/YpNYVD9B_Js?si=M56B0pIiNiZzDJn-)]
-* **Physics Informed Neural Networks for Soft Matter Problems (Paper Review)**
+* **Physics-Informed Neural Networks for Soft Matter Problems (Paper Review)**
   [[Youtube](https://youtu.be/up6cJgliUek?si=0PFO58Nq3cjFaP5e)]
 * **Physics-Informed Machine Learning (PIML) and Kolmogorov-Arnold Networks (KANs)- Caltech's CMX 2025**
   [[Youtube](https://youtu.be/MQqKEmlUlSk?si=8hpe-C0JQAOgeo_J)] 
@@ -102,6 +101,12 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 ## Simple Tutorial 
 * [https://github.com/zhaoxiaoyu1995/PINN-Task](https://github.com/zhaoxiaoyu1995/PINN-Task)
+* **物理AI论文精读1：PINN的基本原理介绍** [[Wechat URL](https://mp.weixin.qq.com/s/uG0yrIy03YH6pZgKjvTkVg)]
+* **物理AI论文精读2：PINN的训练难题与自适应策略** [[Wechat URL](https://mp.weixin.qq.com/s/wocgbsjkdFK_WAO1vDc3Pw)]
+* **物理AI论文精读3：PINN的架构进化** [[Wechat URL](https://mp.weixin.qq.com/s/kjtAbEsAOxqG_h6_x58s1w)]
+* **物理AI论文精读4：PINN基准测试与对比** [[Wechat URL](https://mp.weixin.qq.com/s/alVWaXeRq7UWXVDJacW6bg)]
+* 
+
 
 
 ## Newly Updated Papers & Toolkit 
