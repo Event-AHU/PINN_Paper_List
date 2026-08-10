@@ -150,7 +150,13 @@ Paper List of Physics-Informed Neural Network (PINN)
 
 
 
-## Year 2026 
+## Year 2026  
+
+* [KDD 2026] **Divide and Conquer: Region Self-Paced Physics-Informed Neural Networks**, Ruixuan Meng, Wenyuan Wu, Zhenwen Ren, Dezhong Peng, Yuan Sun, Xiaogang Deng,
+  KDD '26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2, Pages 3727 - 3738,
+  [[DOI](https://doi.org/10.1145/3770855.3818114)] 
+  [[Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818114)] 
+  
 * [IEEE TPAMI 2026] H. Viswanath et al., "**Neural Operator: Is Data All You Need to Model the World? An Insight Into the Paradigm of Data-Driven Scientific ML,**" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 8, pp. 10097-10111, Aug. 2026, doi: 10.1109/TPAMI.2026.3682604.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11478340)] 
 
